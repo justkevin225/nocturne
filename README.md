@@ -1,10 +1,5 @@
-# Next.js starter
+# Nocturne
 
-Blank Next.js project with TypeScript and Tailwind CSS.
-
-```bash
-pnpm install
-pnpm dev
-```
-
-Open http://localhost:3000. Start editing `app/page.tsx` and `app/globals.css`.
+**Site cloné** [realevate.agency](https://realevate.agency/)  
+**Stack** Next · TypeScript · Tailwind · GSAP  
+**Install** `pnpm install && pnpm dev` → http://localhost:3000
