@@ -3,7 +3,7 @@ import { Google_Sans_Flex } from "next/font/google";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Nocturne",
+  title: "KODE IS FUN",
   description:
     "An imagined archive of cities after dark, shaped by passing lights and long exposures.",
 };
@@ -20,7 +20,9 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       lang="en"
       className={`${googleSansFlex.className} h-full antialiased`}
     >
-      <body className="h-min-full">{children}</body>
+      <body className="min-h-svh overflow-hidden bg-white text-[#0f0f0f]">
+        {children}
+      </body>
     </html>
   );
 }
