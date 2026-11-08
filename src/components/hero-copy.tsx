@@ -6,7 +6,7 @@ export default function HeroCopy() {
         long exposures.
       </p>
       <div>
-        <p className="hero-callout w-max transform-[translateY(100%)] border-2 border-[#0f0f0f] px-6 py-2 text-[1.1rem] font-[450] tracking-[-0.01em] uppercase opacity-0 [will-change:transform,opacity]">
+        <p className="hero-callout w-max transform-[translateY(100%)] border-2 border-[#0f0f0f] px-6 py-2 text-[1.1rem] font-[450] tracking-[-0.01em] uppercase opacity-0 will-change-[transform,opacity]">
           Volume 01 / Night Studies
         </p>
       </div>

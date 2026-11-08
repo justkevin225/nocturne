@@ -11,7 +11,7 @@ export default function SiteFooter() {
           href="https://kevinkouakou.com"
           target="_blank"
           rel="noopener noreferrer"
-          className="relative whitespace-nowrap after:absolute after:inset-x-0 after:bottom-0 after:h-px after:origin-left after:scale-x-0 after:bg-current after:transition-transform after:duration-[250ms] hover:after:scale-x-100 focus-visible:after:scale-x-100 motion-reduce:after:transition-none"
+          className="relative whitespace-nowrap after:absolute after:inset-x-0 after:bottom-0 after:h-px after:origin-left after:scale-x-0 after:bg-current after:transition-transform after:duration-250 hover:after:scale-x-100 focus-visible:after:scale-x-100 motion-reduce:after:transition-none"
         >
           KEV
         </a>
